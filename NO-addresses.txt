@@ -1,0 +1,1001 @@
+﻿City,Street,PostalCode,Country
+OSLO,"Prestegårdsveien 206",0851,NO
+OSLO,"Bård Skolemesters vei 116",0590,NO
+HAFSLUNDSØY,"Haslestien 103",1734,NO
+LILLESTRØM,"K M Nordangers vei 223",2003,NO
+ARENDAL,"Centralgaten 164",4836,NO
+DRAMMEN,"Lundatråkket 147",3032,NO
+HARSTAD,"Snevegen 129",9403,NO
+STORD,"Skotlio 195",5411,NO
+TROMSDALEN,"Alfred Hansens veg 13",9020,NO
+LILLESTRØM,"Badeveien 188",2003,NO
+LILLESTRØM,"Vestbygata 238",2003,NO
+BRENSHOLMEN,"Lensmann Hvedings vei 152",9118,NO
+ELVERUM,"Gerhard Munthes veg 71",2406,NO
+MOSS,"Korsveien 142",1534,NO
+BORGENHAUGEN,"Bråtenlia 144",1738,NO
+MOLDE,"Kreklingbakken 228",6429,NO
+OSLO,"Bryggetorget 144",0250,NO
+TOLVSRØD,"Rosenlundveien 70",3150,NO
+LODDEFJORD,"Bjørndalsbakken 170",5171,NO
+SKIEN,"Paul Kohts gate 198",3714,NO
+BERGEN,"Lungegårdsbakken 149",5015,NO
+HUNDVÅG,"Skipsbyggergata 97",4085,NO
+LARVIK,"Valbysteinveien 79",3261,NO
+STEINKJER,"Otto Sverdrups veg 158",7713,NO
+NARVIK,"Kongensgate 8",8514,NO
+BERGEN,"Furuveien 95",5067,NO
+FOSNAVÅG,"Sjukeheimsvegen 5",6092,NO
+STAVANGER,"Helmer Hanssens gate 27",4019,NO
+KRÅKERØY,"Damveien 167",1672,NO
+SANDNES,"Austre Tjørnvei 18",4317,NO
+VETTRE,"Vettrekollen 183",1392,NO
+KLAVESTADHAUGEN,"Fromholtveien 184",1743,NO
+TRONDHEIM,"Høili plass 132",7052,NO
+JAR,"Lillengveien 242",1358,NO
+MOSJØEN,"Hubrovegen 198",8665,NO
+STORD,"Hornelandsvegen 63",5412,NO
+STEINKJER,"Trøavegen 48",7716,NO
+LARVIK,"C A Larsens vei 138",3260,NO
+ASKER,"Orestien 231",1387,NO
+ASKIM,"Vangsveien 170",1814,NO
+SANDEFJORD,"Namløsskogen 193",3237,NO
+"MO I RANA","Snarveien 160",8624,NO
+HØNEFOSS,"Søndre Elvikvei 65",3512,NO
+ALTA,"Lampemyra 161",9518,NO
+SKIEN,"Trollsteinlia 208",3718,NO
+HAUGESUND,"Salmakervegen 66",5517,NO
+BERGEN,"Ekregaten 15",5036,NO
+"MO I RANA","Sagbakken 26",8626,NO
+TRONDHEIM,"Tvetestien 14",7020,NO
+HAUGESUND,"Grannesgata 191",5523,NO
+LARVIK,"Welhavens vei 213",3269,NO
+FJELLHAMAR,"Lørdagsrudveien 47",1472,NO
+SANDNES,"Drengeveien 49",4306,NO
+RÅDAL,"Oterveien 88",5236,NO
+TOLVSRØD,"Gårdsveien 110",3154,NO
+TERTNES,"Tertnesåsen 108",5113,NO
+"KRISTIANSUND N","Amundbergan 167",6518,NO
+SKIEN,"Halvdankroken 173",3725,NO
+SKIEN,"Fjellrønningen 171",3720,NO
+MANDAL,"Pileveien 40",4515,NO
+DRAMMEN,"Øvre Sund 29",3018,NO
+"KRISTIANSAND S","Søm terrasse 38",4637,NO
+EIKSMARKA,"Slettestien 229",1359,NO
+TØNSBERG,"Vestbakken 215",3123,NO
+ØSTERÅS,"Østeråsbakken 247",1361,NO
+OSLO,"Gladengveien 25",0661,NO
+"KRISTIANSUND N","Grendals gate 35",6516,NO
+SKEDSMOKORSET,"Vardelia 88",2020,NO
+SKIEN,"Gvarvgata 99",3717,NO
+SARPSBORG,"Korsgata 190",1723,NO
+KROKELVDALEN,"Skifervegen 182",9022,NO
+KRÅKERØY,"Putten 239",1676,NO
+SKIEN,"Gråtenvegen 125",3732,NO
+STAVANGER,"Eikesetstubben 109",4032,NO
+JESSHEIM,"Skogstjernevegen 42",2052,NO
+ASKER,"Ingolfs vei 118",1385,NO
+MOSS,"Gartnerveien 201",1526,NO
+HØNEFOSS,"Sørliveien 57",3512,NO
+KOLSÅS,"Gabbroveien 79",1352,NO
+OSLO,"Furukollveien 183",0495,NO
+HAKADAL,"Fjellveien 99",1484,NO
+"MO I RANA","Kisveien 106",8616,NO
+DRAMMEN,"Muusøya 170",3023,NO
+LØRENSKOG,"Robsrudstubben 28",1470,NO
+MATHOPEN,"Starasvingen 172",5174,NO
+ARENDAL,"Springklev 82",4838,NO
+MOSS,"Torggata 125",1530,NO
+TVEIT,"Fosseveien 68",4658,NO
+BODØ,"Trollmyra 56",8028,NO
+SANDVIKA,"Månesigden 80",1337,NO
+PORSGRUNN,"Eikelia 61",3943,NO
+RÅDAL,"Traneveien 194",5238,NO
+DRAMMEN,"Nedre Ørengate 98",3023,NO
+BERGEN,"Lynghaugen 129",5038,NO
+SARPSBORG,"Kirkeveien 73",1710,NO
+OSLO,"Vikengata 1",0656,NO
+BERGEN,"Arnoldus Reimers gate 40",5053,NO
+BODØ,"Påls vei 99",8008,NO
+FREDRIKSTAD,"Grønliveien 49",1605,NO
+NYBORG,"Eikåsneset 234",5131,NO
+HØNEFOSS,"Arnemannsveien 188",3510,NO
+NOTODDEN,"Hjalmar Johansens gate 13",3683,NO
+HEIMDAL,"Oline Hårstads veg 83",7072,NO
+MOSS,"Dronningens gate 115",1530,NO
+TROMSØ,"Måsevegen 127",9015,NO
+LARVIK,"Drengsroa 99",3260,NO
+MOSS,"Klommestensbakken 13",1533,NO
+OSLO,"Østensjø terrasse 15",0686,NO
+HAFRSFJORD,"Madlatuå 41",4045,NO
+HARSTAD,"Kanebogmyra 85",9411,NO
+SKIEN,"Renna 130",3720,NO
+ALTA,"Oterfaret 217",9512,NO
+DRAMMEN,"Ambolten 121",3031,NO
+SKUI,"Årenga 63",1340,NO
+OSLO,"Mogata 195",0464,NO
+LAKSEVÅG,"Riplegården 6",5161,NO
+MOLDE,"Hjellmyrnakken 22",6429,NO
+TRONDHEIM,"Alfred Hess veg 213",7028,NO
+SANDEFJORD,"Tangenlia 69",3234,NO
+SANDNES,"Kapellanveien 61",4325,NO
+SKIEN,"Bakkegata 134",3725,NO
+FAUSKE,"Kvitlyngveien 157",8209,NO
+ASKIM,"Grønlundveien 114",1809,NO
+SKIEN,"Tappenstreken 236",3733,NO
+SANDNES,"Furuveien 171",4314,NO
+LARVIK,"Eidgata 45",3264,NO
+FREDRIKSTAD,"Onsøy Stasjon 182",1615,NO
+SANDEFJORD,"Morellveien 98",3228,NO
+TRONDHEIM,"Smistadgrenda 201",7026,NO
+OSLO,"Ole Brumms vei 244",0979,NO
+GODVIK,"Janastølen 120",5179,NO
+HAFRSFJORD,"Vinterveien 112",4041,NO
+HORTEN,"Foldenveien 9",3186,NO
+HAGAN,"Bryggeriveien 62",1481,NO
+PORSGRUNN,"Bjønnes-Solvika 37",3949,NO
+SKIEN,"Rienvegen 192",3737,NO
+"KRISTIANSUND N","Sørholmsveien 134",6508,NO
+BERGEN,"Klosterhaugen 222",5005,NO
+PORSGRUNN,"Kammerherreløkka 152",3915,NO
+LARVIK,"Gloppeåsen 197",3261,NO
+OSLO,"Firkløverveien 249",0379,NO
+OSLO,"Jordstjerneveien 66",1283,NO
+SANDNES,"Vinkelgaten 212",4307,NO
+STORD,"Hornelandsvågen 101",5412,NO
+ALTA,"Svartaksveien 79",9516,NO
+SARPSBORG,"Almes vei 165",1726,NO
+STAVANGER,"Hesbygata 102",4014,NO
+"GAMLE FREDRIKSTAD","Anton Rosings vei 236",1637,NO
+STAVANGER,"Hordaveien 245",4020,NO
+STEINKJER,"Bekkavegen 186",7717,NO
+PORSGRUNN,"Nedre Søliveg 191",3914,NO
+BERGEN,"Øvre Ole Bulls plass 106",5012,NO
+MOSS,"Solveien 72",1533,NO
+DRAMMEN,"Kremlestien 68",3032,NO
+GRIMSTAD,"Pharos vei 132",4876,NO
+PARADIS,"Wernersholmveien 151",5232,NO
+HAKADAL,"Myraveien 224",1488,NO
+SKIEN,"Brokenvegen 102",3719,NO
+MANDAL,"Foged Heibergs gate 51",4514,NO
+MOLDE,"Lyngvegen 6",6429,NO
+BORGENHAUGEN,"Brusemyrkroken 153",1739,NO
+STAVANGER,"Sotrabakken 206",4029,NO
+LAKSEVÅG,"Voldene 101",5162,NO
+LARVIK,"Granveien 160",3268,NO
+BERGEN,"Tartargaten 52",5034,NO
+FJELLHAMAR,"Eirik Raudes vei 151",1472,NO
+BERGEN,"Landåssvingen 117",5096,NO
+LARVIK,"Grensesteinveien 51",3261,NO
+ARENDAL,"Lynghaugen 29",4844,NO
+"KRISTIANSAND S","Gudbrandslia 205",4638,NO
+HAMAR,"Kristin Lavransdatters veg 204",2316,NO
+OSLO,"Norderhovgata 191",0654,NO
+PORSGRUNN,"Borgeåsen terrasse 176",3911,NO
+MOSS,"Skutebakken 224",1513,NO
+NYBORG,"Eikåsneset 156",5131,NO
+HAMAR,"Pirilsveg 6",2319,NO
+SANDNES,"Tjeldveien 232",4318,NO
+HAFSLUNDSØY,"Hasle Trafo 162",1734,NO
+SARPSBORG,"Vannverksveien 203",1727,NO
+GRESSVIK,"Rødåsen 240",1621,NO
+KONGSBERG,"Budstikka 43",3612,NO
+STAVANGER,"Kirkegata 119",4006,NO
+STAVANGER,"Heiamyrå 211",4033,NO
+TROMSØ,"Hansine Hansens veg 149",9019,NO
+JESSHEIM,"Konglekroken 125",2050,NO
+SARPSBORG,"Friggs gate 159",1725,NO
+TERTNES,"Grønskjeret 194",5114,NO
+SANDEFJORD,"Drakeåsveien 41",3229,NO
+TRONDHEIM,"Rådmannsvegen 22",7027,NO
+TROMSDALEN,"Møllervegen 108",9020,NO
+HØVIK,"Lindhaugsvingen 243",1363,NO
+OSLO,"Pasoplia 63",1279,NO
+SANDEFJORD,"Grønnligata 123",3217,NO
+SANDNES,"Noredalen 211",4308,NO
+SOMMARØY,"Hillesøyvegen 73",9110,NO
+SANDEFJORD,"Vargveien 148",3235,NO
+GRESSVIK,"Vestkilen 10",1621,NO
+STAVANGER,"Kongsteinsmauet 138",4012,NO
+LILLEHAMMER,"Hågåvegen 239",2608,NO
+SKEDSMOKORSET,"Løkenveien 206",2019,NO
+TROMSDALEN,"Livegen 248",9020,NO
+OSLO,"Thygesons vei 170",0667,NO
+HALDEN,"Rolandstredet 186",1767,NO
+BERGEN,"Fredlundbakken 171",5073,NO
+HAFSLUNDSØY,"Nipaveien (Varteig) 20",1734,NO
+SKJEBERG,"Hedins vei 136",1746,NO
+"GAMLE FREDRIKSTAD","Raumagata 11",1636,NO
+FLEKKERØY,"Jensebakken 55",4625,NO
+RANHEIM,"Hammerverksvegen 25",7056,NO
+FAUSKE,"Bjørkmoveien 193",8200,NO
+DRAMMEN,"Iver Juels gate 123",3040,NO
+HALDEN,"Brønnhøydveien 38",1768,NO
+SANDNES,"Todnemlia 57",4312,NO
+"KRISTIANSAND S","Lerkeveien 109",4622,NO
+ASKER,"Jøssongveien 4",1384,NO
+SELLEBAKK,"Kinogaten 221",1653,NO
+BERGEN,"Bratlandsmauet 238",5010,NO
+ELVERUM,"Ihlenvegen 87",2409,NO
+FREDRIKSTAD,"Ambjørnrødveien 83",1615,NO
+NOTODDEN,"Linbursdokka 222",3681,NO
+TØNSBERG,"Hegreveien 56",3124,NO
+HAMAR,"Kavegen 187",2319,NO
+OSLO,"Marta Steinsviks vei 85",1283,NO
+NARVIK,"Bregnetunet 137",8515,NO
+GRÅLUM,"Vestlia 30",1712,NO
+BERGEN,"Johanne Juells gate 221",5053,NO
+STAVANGER,"Smalgangen 171",4013,NO
+BERGEN,"Jens Rolfsens gate 115",5032,NO
+BORGENHAUGEN,"Engsmyr terrasse 117",1739,NO
+STAVANGER,"Heskestadveien 86",4015,NO
+FOSNAVÅG,"Pettervågen 92",6090,NO
+STEINKJER,"Svein Jarls gate 94",7713,NO
+TØNSBERG,"Pegasusveien 153",3113,NO
+SARPSBORG,"Lilletuneveien 53",1711,NO
+BODØ,"Mælenhaugen 62",8012,NO
+LILLEHAMMER,"Fagabergvegen 223",2624,NO
+ÅLESUND,"Nylandvegen 144",6011,NO
+NARVIK,"Marmorsvingen 238",8515,NO
+SANDEFJORD,"Solveien 128",3217,NO
+SANDEFJORD,"Lille Revåsvei 177",3222,NO
+KONGSVINGER,"Prinsens gate 119",2208,NO
+"MO I RANA","Fagerlien 153",8610,NO
+SKJEBERG,"Klavestadgata 178",1747,NO
+MOLDE,"Friervegen 250",6413,NO
+OSLO,"August Cappelens gate 97",0360,NO
+BLOMSTERDALEN,"Langenesvegen 104",5258,NO
+NOTODDEN,"Hvålagata 172",3681,NO
+"KRISTIANSAND S","Eigevannsveien 168",4629,NO
+"GAMLE FREDRIKSTAD","Sindings gate 238",1636,NO
+ÅLESUND,"Korsvika 183",6006,NO
+HARSTAD,"Skjurberget 112",9407,NO
+HASLUM,"Vallerkroken 16",1344,NO
+ÅLESUND,"Bjørkhaugen 33",6012,NO
+STAVANGER,"Måltroststien 3",4022,NO
+BORGENHAUGEN,"Rådyrfaret 231",1739,NO
+ÅLESUND,"Grønvika 95",6015,NO
+GRIMSTAD,"Gjert Sørensens vei 206",4879,NO
+"KRISTIANSAND S","Vavikbakken 97",4639,NO
+HØNEFOSS,"Molvaldgata 138",3513,NO
+STAVANGER,"Nedre Tastasjøen 200",4029,NO
+TROMSØ,"Jonas Lies gate 199",9009,NO
+HØNEFOSS,"Sagafaret 139",3514,NO
+MOLDE,"Olav Oksviks veg 106",6425,NO
+NOTODDEN,"Svintrudvegen 120",3676,NO
+ALTA,"Hesteskoen 27",9510,NO
+TØNSBERG,"Uranusveien 106",3113,NO
+NORDBYHAGEN,"Dr. Kobros vei 80",1474,NO
+HØNEFOSS,"Bertelsbakken 232",3514,NO
+OSLO,"St. Halvards plass 172",0192,NO
+MOSS,"Abborveien 154",1528,NO
+"MO I RANA","Yttraskarveien 97",8614,NO
+BODØ,"Solliveien 172",8011,NO
+KONGSVINGER,"Glommengata 169",2211,NO
+SKIEN,"Tranebærvegen 55",3734,NO
+TROMSØ,"Breivangvegen 93",9010,NO
+"BÆRUMS VERK","Sleiverudveien 158",1354,NO
+"GAMLE FREDRIKSTAD","Havnaveien 97",1634,NO
+HEIMDAL,"Ole Jørgensens veg 49",7089,NO
+HARSTAD,"Vierbakken 229",9414,NO
+OSLO,"Østreheimsveien 159",0590,NO
+SANDNES,"Hauagaten 29",4307,NO
+TOLVSRØD,"Strandlyveien 182",3150,NO
+NARVIK,"Tyriveien 71",8515,NO
+GRESSVIK,"Midtåsen 95",1624,NO
+ARENDAL,"Havstadlia 248",4842,NO
+OSLO,"Vippetangen 33",0150,NO
+NARVIK,"Fiolstien 104",8515,NO
+FREDRIKSTAD,"Trosviksnippen 26",1610,NO
+ARENDAL,"Skøyteveien 169",4848,NO
+OSLO,"Fjordgløttveien 76",0575,NO
+STAVANGER,"Nærbøgata 110",4014,NO
+HARSTAD,"Hekkvegen 241",9411,NO
+TRONDHEIM,"Jørunds gate 112",7030,NO
+"KRISTIANSUND N","Helsings gate 124",6509,NO
+FREDRIKSTAD,"Huths gate 221",1608,NO
+HAUGESUND,"Kyrpingvegen 237",5532,NO
+ÅLESUND,"Lerstadlia 225",6014,NO
+ISE,"Jansbråteveien 79",1730,NO
+SANDNES,"Nordre Markvei 54",4307,NO
+PORSGRUNN,"Kollskjeggvegen 67",3917,NO
+RASTA,"Østlifaret 37",1476,NO
+"MO I RANA","Labakken 94",8616,NO
+SANDEFJORD,"Rødsveien 122",3222,NO
+SKIEN,"Kverndalsgata 108",3717,NO
+"GAMLE FREDRIKSTAD","Åbyggeveien 222",1636,NO
+HALDEN,"Idunns vei 14",1781,NO
+STAVANGER,"Idsegata 65",4015,NO
+STABEKK,"Peterhofveien 216",1369,NO
+DRAMMEN,"Kai Fjells vei 27",3038,NO
+STEINKJER,"Svein Jarls gate 154",7713,NO
+"KRISTIANSUND N","Morildveien 182",6515,NO
+LØRENSKOG,"Bregneveien 183",1470,NO
+OSLO,"Krafts gate 241",0169,NO
+HAMAR,"Lundvegen 104",2316,NO
+SNARØYA,"Kongshavn 88",1367,NO
+HAMAR,"Skarpholvegen 5",2319,NO
+OSLO,"Hagastubben 236",0980,NO
+TRONDHEIM,"Sigurd Einbus veg 169",7036,NO
+ASKER,"Hesjejordet 39",1385,NO
+ARENDAL,"Barbu 192",4841,NO
+ASKER,"Ånnerudtoppen 178",1383,NO
+BERGEN,"St. Sunnivas vei 82",5052,NO
+GJØVIK,"Johan Castbergs gate 223",2815,NO
+OSLO,"Asalveien 83",0876,NO
+ARENDAL,"Seljebakken 213",4844,NO
+SKIEN,"Halvdans gate 51",3725,NO
+BORRE,"Nøttestien 48",3184,NO
+STAVANGER,"Tors gate 91",4011,NO
+"BÆRUMS VERK","Bakerovnsgrenda 220",1353,NO
+ELVERUM,"Bergevegen 236",2411,NO
+HARSTAD,"Vollevegen 173",9402,NO
+HUNDVÅG,"Dorybakken 122",4085,NO
+TRONDHEIM,"Frøys veg 2",7033,NO
+"KRISTIANSAND S","Jørgen Løvlands vei 2",4617,NO
+BERGEN,"Sjøgaten 131",5035,NO
+HAKADAL,"Kringsjåveien 80",1484,NO
+HORTEN,"Rustadbrygga 202",3187,NO
+HAUGESUND,"Jektevegen 28",5535,NO
+SKUI,"Bjørumveien 127",1340,NO
+MOSS,"Åkerfaret 59",1518,NO
+SEM,"Torvmyrveien 129",3170,NO
+ALTA,"Karl Johnsens vei 40",9511,NO
+TRONDHEIM,"Ingvald Undsets gate 47",7030,NO
+BERGEN,"Øyjordsbotten 178",5038,NO
+EIDSVÅGNESET,"Furubotn 172",5101,NO
+HAUGESUND,"St. Olavs plass 36",5523,NO
+LARVIK,"Haukeveien 159",3258,NO
+TILLER,"Hårstadryggen 116",7092,NO
+SANDEFJORD,"Parkveien 23",3216,NO
+HAGAN,"Listubben 95",1481,NO
+STAVANGER,"Solåsveien 172",4016,NO
+GJØVIK,"Hoffs gate 239",2819,NO
+PARADIS,"Hovdenflaten 24",5232,NO
+TØNSBERG,"Johan Gulliksens vei 50",3117,NO
+HEGGEDAL,"Grodalsåsen 184",1389,NO
+HAUGESUND,"Ekenæsvegen 177",5538,NO
+HAUGESUND,"Haugeplassen 99",5523,NO
+"KRISTIANSAND S","Marcus Thranes gate 119",4630,NO
+"GAMLE FREDRIKSTAD","Spinneriveien 200",1632,NO
+MOSBY,"Kiledalen 216",4619,NO
+TROMSØ,"Krognessvegen 88",9006,NO
+ALTA,"Fjellveien 73",9511,NO
+SARPSBORG,"Astrids gate 63",1706,NO
+NOTODDEN,"Hellemvegen 115",3677,NO
+ISE,"Urdalsbråten 44",1730,NO
+OSLO,"Etterstadkroken 87",0659,NO
+SANDNES,"Hauagaten 198",4307,NO
+TISTEDAL,"Ilaveien 52",1791,NO
+TRONDHEIM,"Beddingen 84",7014,NO
+MOSS,"Herføllbakken 243",1532,NO
+OSLO,"Beverkollen 99",1275,NO
+FREDRIKSTAD,"Moreneveien 44",1605,NO
+MOSS,"Skolegata 66",1532,NO
+OSLO,"Olav Vs gate 169",0161,NO
+ASKIM,"Møllegata 41",1811,NO
+BORGEN,"Rødhettes vei 91",1388,NO
+ARENDAL,"Strandgaten 91",4836,NO
+SEM,"Bent Billes vei 120",3170,NO
+DRAMMEN,"Trillingen 49",3036,NO
+OSLO,"Furuset allé 111",1053,NO
+HAUGESUND,"Svehaug 74",5535,NO
+HARSTAD,"Reirstubben 241",9403,NO
+TRONDHEIM,"Dokkparken 30",7014,NO
+TRONDHEIM,"Haldens gate 53",7014,NO
+HOLUM,"Møglandsveien 236",4519,NO
+ASKER,"Askervangen 64",1383,NO
+DRAMMEN,"Henrik Walters plass 210",3023,NO
+FJELLHAMAR,"Halfdan Kierulfs vei 57",1472,NO
+HØNEFOSS,"Løkkeneveien 146",3512,NO
+GREÅKER,"Portveien 171",1718,NO
+FREI,"Ånesvegen 20",6522,NO
+ALTA,"Idrettsveien 177",9513,NO
+GJØVIK,"Seljevegen 42",2818,NO
+OSLO,"Lerdalsgrenda 44",1262,NO
+GARNES,"Garnestangen 227",5264,NO
+SKOPPUM,"Jahrelundveien 198",3185,NO
+DRAMMEN,"Rugdeveien 179",3030,NO
+JESSHEIM,"Miltangen 169",2050,NO
+ÅLESUND,"Olamyrsvingen 9",6013,NO
+OSLO,"Kronprinsesse Märthas plass 84",0160,NO
+NESTTUN,"Øvsttunåsen 201",5223,NO
+FYLLINGSDALEN,"Huldretråkket 124",5142,NO
+HOMMERSÅK,"Vårliveien 124",4310,NO
+PORSGRUNN,"Lokes veg 46",3913,NO
+MOSS,"Helgedalen 110",1528,NO
+FREI,"Husøyveien 36",6520,NO
+ENGELSVIKEN,"Mariusbakken 97",1628,NO
+OSLO,"Sørvangen 55",0282,NO
+FREDRIKSTAD,"Ambjørnrødveien 181",1615,NO
+ÅLESUND,"Olsvikskaret 117",6006,NO
+"NORDRE TOTEN","Mekketvegen 180",2820,NO
+GRESSVIK,"Skjellumveien 139",1621,NO
+JAKOBSLI,"Furuvegen 152",7058,NO
+HAMAR,"Jessnesvegen 130",2315,NO
+FREI,"Kvalvågdalen 108",6525,NO
+"MO I RANA","Søsterveien 238",8613,NO
+HAUKELAND,"Vesthagen 234",5268,NO
+RÆLINGEN,"Hestehagan 248",2005,NO
+"KRISTIANSUND N","Skjærvaveien 53",6507,NO
+LARVIK,"Grønnebergveien 95",3261,NO
+FLEKKERØY,"Andåsveien 96",4625,NO
+KONGSVINGER,"A. K. Blix veg 15",2214,NO
+GRIMSTAD,"Ekornveien 219",4879,NO
+SKIEN,"Fossegata 17",3730,NO
+BERGEN,"Kolstien 105",5097,NO
+LARVIK,"Kloppsteinveien 201",3261,NO
+"KRISTIANSUND N","Buesvingen 197",6517,NO
+STAVANGER,"Haugvaldstads gate 43",4005,NO
+OSLO,"Vollebekkveien 61",0598,NO
+PORSGRUNN,"Nyhusåsen 48",3946,NO
+FREDRIKSTAD,"Fjeldberg 230",1610,NO
+HØNEFOSS,"Urdveien 91",3518,NO
+TROMSØ,"Prestvannvegen 158",9011,NO
+ARENDAL,"Kirkebakken 179",4836,NO
+ASKIM,"Løkkeveien 131",1831,NO
+FINSTADJORDET,"Losbyveien 88",1475,NO
+PORSGRUNN,"Øygardsvegen 193",3914,NO
+"MO I RANA","Olderveien 100",8622,NO
+KONGSBERG,"Dyrmyrgata 97",3611,NO
+ALTA,"Breverudmyra 43",9513,NO
+SARPSBORG,"Helgebakken 119",1710,NO
+TRENGEREID,"Gullbotn 153",5263,NO
+NOTODDEN,"Nordre Vestsidaveg 103",3677,NO
+KONGSVINGER,"Duevegen 10",2209,NO
+HOMMERSÅK,"Vierveien 118",4311,NO
+SANDEFJORD,"Briggveien 120",3219,NO
+TORP,"Årumfjella 64",1659,NO
+"KRISTIANSAND S","Fidjetoppen 203",4628,NO
+SANDNES,"Austre Tjørnvei 53",4317,NO
+STORD,"Meatjønnshaugen 105",5412,NO
+ALTA,"Lærer Lilands vei 47",9517,NO
+SKIEN,"Søndre Lensmannsveg 111",3736,NO
+FAUSKE,"Tjeldveien 216",8207,NO
+GRIMSTAD,"Vestre Vik 87",4878,NO
+TØNSBERG,"Kilengaten 78",3117,NO
+ARENDAL,"Stoheiveien 206",4825,NO
+FYLLINGSDALEN,"Lyshovden 190",5148,NO
+ÅLESUND,"Bigtonvegen 203",6010,NO
+"KRISTIANSUND N","Ole Vigs gate 10",6516,NO
+BERGEN,"Lærerbakken 113",5055,NO
+JESSHEIM,"Kjeld Stubs veg 159",2050,NO
+DRAMMEN,"Muusøya 139",3023,NO
+KVALØYSLETTA,"Storelvbakken 136",9100,NO
+HORTEN,"Hans Gudes gate 104",3189,NO
+STAVANGER,"Egersundsgata 117",4015,NO
+KONGSVINGER,"Bregnevegen 204",2208,NO
+MOSJØEN,"Nyrudvegen 21",8657,NO
+HØNEFOSS,"Ruaveien 84",3515,NO
+KONGSVINGER,"Oberst Krebs gate 154",2213,NO
+SANDEFJORD,"Shetlandsgata 44",3238,NO
+"KRISTIANSAND S","Auglandslia 76",4620,NO
+STAVANGER,"Lars Utnes vei 108",4023,NO
+ÅLESUND,"Åsegjerdet 211",6017,NO
+BODØ,"Liveien 201",8022,NO
+SANDNES,"Ole Bulls gate 103",4306,NO
+OSLO,"Bertrand Narvesens vei 107",0661,NO
+SANDNES,"Stronda 217",4329,NO
+SKIEN,"Lensmannsvegen 179",3732,NO
+RASTA,"Røykås terrasse 62",1476,NO
+SKJEBERG,"Hauglundveien 229",1747,NO
+HARSTAD,"Kveldrovegen 100",9407,NO
+HORTEN,"Dosent Brynildsens gate 16",3188,NO
+BERGEN,"Edvard Griegs plass 44",5015,NO
+OSLO,"Bølersletta 192",0690,NO
+ÅLESUND,"Storfjordvegen 226",6013,NO
+HORTEN,"Barlindveien 200",3189,NO
+FJELLHAMAR,"Fjelltunveien 208",1472,NO
+HØNEFOSS,"Østbyveien 84",3512,NO
+LARVIK,"Gunnar Reiss-andersens gate 58",3259,NO
+ARENDAL,"Tromøyveien 77",4841,NO
+SANDEFJORD,"Alkeveien 106",3209,NO
+TRONDHEIM,"Anders Tvereggens veg 144",7037,NO
+FINSTADJORDET,"Finstadsletta 190",1475,NO
+SKIEN,"Frognerhagen Sør 126",3714,NO
+TØNSBERG,"Staverngaten 226",3112,NO
+OSLO,"Spireaveien 160",0580,NO
+DRAMMEN,"Tors vei 169",3040,NO
+ELVERUM,"Vindheiavegen 235",2406,NO
+"MO I RANA","Heggveien 10",8622,NO
+BØNES,"Fjellsdalen 29",5155,NO
+OSLO,"Lørenfaret 143",0580,NO
+RYKKINN,"Leirdueveien 24",1349,NO
+SARPSBORG,"Maugestenveien 201",1708,NO
+ARENDAL,"Kirkefjell 9",4842,NO
+PORSGRUNN,"Støperibakken 19",3912,NO
+HAUGESUND,"Grenseplassen 181",5521,NO
+SARPSBORG,"Depotveien 71",1727,NO
+ARENDAL,"Lille Heivei 5",4825,NO
+OSLO,"Torvbakkgata 27",0550,NO
+"KRISTIANSUND N","Nordsundveien 119",6516,NO
+STAVANGER,"Forusmyra 80",4033,NO
+BODØ,"Brubakken 55",8011,NO
+OSLO,"Risstubben 111",0374,NO
+"GAMLE FREDRIKSTAD","Gudeberg allé 249",1632,NO
+NARVIK,"Nedre Jernbanegate 147",8514,NO
+LOMMEDALEN,"Hellerudveien 163",1350,NO
+TRONDHEIM,"Smiloftstykket 85",7026,NO
+TØNSBERG,"Gustav Hansens gate 128",3111,NO
+FLEKKERØY,"Alsviga 121",4625,NO
+OSLO,"Grønland 2",0188,NO
+STEINKJER,"Nedre Rishalla 133",7716,NO
+PORSGRUNN,"Teknikergata 172",3912,NO
+VØYENENGA,"Vinkelveien 43",1339,NO
+FANA,"Norheimsveien 192",5243,NO
+ALTA,"Ankerveien 150",9515,NO
+ARENDAL,"Tollbodgaten 212",4836,NO
+"KRISTIANSAND S","Hellinga 183",4617,NO
+SKIEN,"Soleievegen 56",3734,NO
+SARPSBORG,"Fasanveien 40",1711,NO
+SARPSBORG,"Vestengveien 159",1725,NO
+NØTTERØY,"Bugården Nord 34",3140,NO
+PORSGRUNN,"Rødsåsen 19",3928,NO
+PORSGRUNN,"Kikutvegen 72",3941,NO
+LODDEFJORD,"Junos vei 29",5173,NO
+ARENDAL,"Hesthagen 60",4844,NO
+TROMSØ,"Hamnavegen 177",9017,NO
+HAUGESUND,"Møllervegen 194",5525,NO
+KRÅKERØY,"Alshusbuen 16",1675,NO
+FJELLHAMAR,"Brannvaktveien 63",1472,NO
+FREDRIKSTAD,"Gunnar Nilsens gate 68",1607,NO
+SANDEFJORD,"Kjerrboveien 136",3219,NO
+HUNDVÅG,"Tårnringen 126",4085,NO
+BERGEN,"Jacob Aalls vei 218",5063,NO
+NOTODDEN,"Telnesgata 133",3683,NO
+SANDNES,"Konradhagen 198",4322,NO
+HAMAR,"Halvor Hoels gate 148",2315,NO
+MOSS,"Cort Adelers gate 108",1515,NO
+HØNEFOSS,"Askveien 183",3510,NO
+HORDVIK,"Heiavegen 221",5108,NO
+MOLDE,"Enenvegen 118",6416,NO
+FAUSKE,"Sjøroseveien 122",8206,NO
+TRONDHEIM,"Jernbanegata 71",7042,NO
+STAVANGER,"Fjellfaret 211",4025,NO
+MANDAL,"Klev 214",4513,NO
+ÅLESUND,"Arnehjellen 202",6013,NO
+OSLO,"Alnafetgata 66",0192,NO
+"KRISTIANSUND N","Skogstjerna 23",6518,NO
+LAKSEVÅG,"Carl Konows gate 204",5162,NO
+OSLO,"Dovregata 118",0170,NO
+TØNSBERG,"Asbjørnsens vei 250",3122,NO
+BODØ,"Leitebakken 58",8009,NO
+HØNEFOSS,"Haugebakken 93",3511,NO
+STAVANGER,"Schancheholsveien 8",4019,NO
+ÅLESUND,"Lauramarka 94",6017,NO
+TROMSØ,"Minkvegen 3",9017,NO
+SKJEBERG,"Klavestadåsen 10",1747,NO
+BEKKESTUA,"Murenveien 134",1356,NO
+MOSS,"Heimdalenga 85",1529,NO
+TØNSBERG,"Dyre Vaas vei 61",3122,NO
+HARSTAD,"Vierbakken 211",9414,NO
+HARSTAD,"Svartdalsvegen 201",9407,NO
+ULSET,"Kollåsskiftet 140",5116,NO
+BERGEN,"Georgernes Verft 227",5011,NO
+HØNEFOSS,"Vestern 81",3513,NO
+STRAUMSGREND,"Løtveitveien 224",5151,NO
+ELVERUM,"Slåttmyrvegen 191",2406,NO
+HAUGESUND,"Kristtornvegen 55",5535,NO
+HOMBORSUND,"Homborhave 20",4888,NO
+FAUSKE,"Mosemyrveien 215",8206,NO
+SKIEN,"Hulkavegen 234",3738,NO
+LODDEFJORD,"Sæls vei 56",5173,NO
+STAVANGER,"Lyngveien 50",4025,NO
+BODØ,"Tømrerveien 113",8004,NO
+GJØVIK,"Tordenskjolds gate 93",2821,NO
+HAGAN,"Bjønndalsveien 127",1481,NO
+GJØVIK,"Bakkestumpen 160",2816,NO
+"MO I RANA","Løgstørveien 24",8610,NO
+STORD,"Åsmyro 200",5417,NO
+SANDNES,"Ospabakken 95",4306,NO
+PORSGRUNN,"Svinten 161",3941,NO
+BERGEN,"Fredriksbergsgaten 196",5005,NO
+STAVANGER,"Kvernhusveien 152",4025,NO
+SANDEFJORD,"Sjuvekroken 130",3218,NO
+BODØ,"Plassen 202",8006,NO
+HUNDVÅG,"Blåkvalveien 75",4085,NO
+GJETTUM,"Stanga 9",1346,NO
+"GAMLE FREDRIKSTAD","Spinneriveien 87",1632,NO
+FREDRIKSTAD,"Eyvind Alnæs vei 17",1605,NO
+GRESSVIK,"Gamle Rødsvei 23",1621,NO
+OSLO,"Per Kvibergs gate 47",0478,NO
+PORSGRUNN,"Smiebakken 24",3919,NO
+HAUGESUND,"Dukkelunden 178",5518,NO
+ARENDAL,"Elvebakken 8",4825,NO
+OSLO,"Bygdøylund 209",0286,NO
+BORGEN,"Østhellinga 103",1388,NO
+FAUSKE,"Moselyngveien 80",8209,NO
+DRAMMEN,"Løysebakken 200",3039,NO
+TORP,"Strømsvei 48",1658,NO
+TRONDHEIM,"Knut Hamsuns veg 157",7024,NO
+FREDRIKSTAD,"Breidablikk 79",1608,NO
+BØNES,"Bergveien 121",5152,NO
+STEINKJER,"Heggesåsen 76",7715,NO
+TØNSBERG,"Tomsbakken 38",3125,NO
+SKIEN,"Halvdans gate 7",3725,NO
+SLATTUM,"Haugerveien 3",1480,NO
+"KRISTIANSAND S","Bukken Bruses vei 227",4638,NO
+FLEKKERØY,"Jensebakken 98",4625,NO
+TILLER,"Rognbudalen 126",7092,NO
+NESØYA,"Halsåsen 219",1397,NO
+SKIEN,"Limijordet 73",3721,NO
+NARVIK,"Furuveien 241",8517,NO
+GODVIK,"Janaveien 143",5179,NO
+HALDEN,"Tønne Huitfeldts plass 183",1767,NO
+HALDEN,"Repslagergata 213",1776,NO
+SKIEN,"Mobakkvegen 90",3732,NO
+HOMMERSÅK,"Urskjellveien 226",4310,NO
+LILLESTRØM,"St Olavs gate 174",2004,NO
+SKIEN,"Mellombrottet 183",3737,NO
+"KRISTIANSAND S","Thistedahls gate 223",4614,NO
+HAFRSFJORD,"Korporalstubben 193",4045,NO
+OSLO,"Grorudbakken 194",0962,NO
+OSLO,"Myntfunnveien 88",0382,NO
+TRONDHEIM,"Biskop Darres gate 119",7042,NO
+TØNSBERG,"Stålveien 161",3124,NO
+LILLEHAMMER,"Margit Haslunds veg 37",2614,NO
+PORSGRUNN,"Mellomgata 161",3912,NO
+NESBRU,"Granveien 14",1394,NO
+OSLO,"Friggs vei 22",0588,NO
+ALTA,"Sildreveien 27",9516,NO
+ÅLESUND,"Myrberget 207",6020,NO
+MANDAL,"Vierveien 62",4515,NO
+HOSLE,"Åsfaret 227",1362,NO
+SANDEFJORD,"Søndre Gjekstadskog 140",3236,NO
+FORNEBU,"Rolfsbuktalleén 165",1364,NO
+BERGEN,"Fredrik Meltzers gate 180",5007,NO
+SKIEN,"Svalevegen 82",3742,NO
+OSLO,"Seterbråtveien 139",1271,NO
+HALDEN,"Nini Roll Ankers vei 54",1781,NO
+JESSHEIM,"Asfaltvegen 18",2050,NO
+OSLO,"Inkognito terrasse 100",0256,NO
+ÅLESUND,"Borgundgavlen 246",6015,NO
+JAR,"Øvrevollveien 79",1358,NO
+GRÅLUM,"Vestlia 97",1712,NO
+SANDNES,"Jutlandveien 228",4312,NO
+NITTEDAL,"Tyrihansveien 144",1482,NO
+"KRISTIANSAND S","Konsul Wilds vei 201",4621,NO
+OSLO,"Schwensens gate 181",0170,NO
+ÅLESUND,"Klokkersundvegen 95",6015,NO
+OSLO,"Nordbergbakken 197",0875,NO
+TORP,"Moltebergveien 176",1659,NO
+STEINKJER,"Smedbakken 15",7725,NO
+SANDNES,"Austråttlia 107",4306,NO
+HAGAN,"Blåtoppveien 128",1481,NO
+OSLO,"Hamborgveien 98",0860,NO
+OSLO,"Messepromenaden 221",0279,NO
+KONGSVINGER,"Elgvegen 70",2211,NO
+HØNEFOSS,"Tungaveien 199",3510,NO
+OSLO,"Øvre Langås vei 77",0880,NO
+SANDNES,"Røyskattveien 102",4329,NO
+TROMSØ,"Roald Amundsens gate 100",9009,NO
+JAKOBSLI,"Einervegen 213",7059,NO
+BERGEN,"Kolstibotn 134",5098,NO
+RÆLINGEN,"Liavegen 177",2005,NO
+STAVANGER,"Hinnali 41",4020,NO
+OSLO,"Orreveien 240",0789,NO
+"GAMLE FREDRIKSTAD","Anton Rosings vei 24",1637,NO
+MOLDE,"Årøhagen 198",6422,NO
+"KRISTIANSUND N","Bølgebakken 44",6507,NO
+BODØ,"Prestmarkveien 105",8074,NO
+BODØ,"Marmorveien 64",8072,NO
+GREÅKER,"Gamle Tindlundvei 44",1718,NO
+PORSGRUNN,"Prestealleen 49",3944,NO
+OSLO,"Blåsbortveien 27",0873,NO
+VASSØY,"Sørstrandveien 18",4076,NO
+"KRISTIANSAND S","Nordre Hovedgårds vei 110",4621,NO
+ASKER,"Østre Jansrud 199",1383,NO
+BERGEN,"Støletorget 11",5003,NO
+HORTEN,"Pedersgata 190",3186,NO
+STAVANGER,"Forushagen 131",4033,NO
+SKOPPUM,"Sletta 172",3185,NO
+JAKOBSLI,"Eikvegen 104",7059,NO
+HAUGESUND,"Blåbærvegen 101",5533,NO
+TOLVSRØD,"Fossilveien 226",3152,NO
+FAUSKE,"Valnesfjordveien 97",8206,NO
+GREÅKER,"Sandveien (Tune) 122",1719,NO
+HALDEN,"Kaisaveien 97",1786,NO
+HAMAR,"Torgny Segerstedts gate 93",2319,NO
+MANDAL,"Haugen 156",4517,NO
+ARENDAL,"Barbugårdsjordet 225",4844,NO
+GRESSVIK,"Lerkeveien 63",1624,NO
+TRONDHEIM,"Stavsetsvingen 114",7026,NO
+ARNATVEIT,"Langerekkja 131",5262,NO
+TOMASJORD,"Evjenvegen 19",9024,NO
+GRÅLUM,"Nesleveien 8",1712,NO
+BERGEN,"Klingesmauet 9",5003,NO
+HAUGESUND,"Marivegen 224",5516,NO
+STORD,"Nye Vågavegen 187",5412,NO
+NOTODDEN,"Rolf Wickstrøms gate 215",3679,NO
+SLATTUM,"Stuaveien 211",1480,NO
+STAVERN,"Skaufaret 61",3292,NO
+SANDEFJORD,"Vestadjordet 247",3218,NO
+OSLO,"Oslo gate 188",0192,NO
+SKIEN,"Olav Kyrres gate 141",3722,NO
+SANDNES,"General Ruges vei 38",4309,NO
+HAFRSFJORD,"Rappstien 215",4041,NO
+ALTA,"Elvestrand 7",9514,NO
+HØNEFOSS,"Heieren 55",3518,NO
+FREDRIKSTAD,"Wergelands vei 73",1605,NO
+HØVIK,"Skogstuveien 231",1363,NO
+BERGEN,"Strangehagesmauet 54",5011,NO
+ÅLESUND,"Lihauggata 246",6002,NO
+OSLO,"Hellerud Terasse 56",0672,NO
+HORTEN,"Annie Skaus vei 215",3188,NO
+NESBRU,"Jakteleia 173",1394,NO
+"KRISTIANSAND S","Skinnerheia 99",4634,NO
+SANDNES,"Valldalveien 22",4317,NO
+"ØVRE ERVIK","Vinddalsveien 143",5106,NO
+OSLO,"Åsbakken 84",0380,NO
+SKEDSMOKORSET,"Vardekroken 136",2020,NO
+OSLO,"Peder Holters vei 52",1168,NO
+JESSHEIM,"Smedalsvegen 45",2050,NO
+GRESSVIK,"Johan Selmer Karlsens vei 163",1624,NO
+HØNEFOSS,"Breidablikk 220",3511,NO
+LARVIK,"Castbergs gate 16",3257,NO
+KONGSBERG,"Asbjørnsens vei 117",3613,NO
+SANDEFJORD,"Hagaskogen 245",3234,NO
+DRAMMEN,"Lammers gate 229",3014,NO
+HARSTAD,"Ravns gate 161",9405,NO
+JESSHEIM,"Nordskog 191",2050,NO
+OSLO,"Fisker Syvertsens vei 130",0198,NO
+MOSS,"Soltunet 107",1533,NO
+MANDAL,"Elveveien 195",4515,NO
+HAUGESUND,"Urtergata 41",5537,NO
+VOLLEN,"Strandengveien 95",1390,NO
+HØNEFOSS,"Sundgata 54",3510,NO
+BERGEN,"Marsveien 134",5099,NO
+SKI,"Tandbergåsen 122",1400,NO
+OSLO,"Solkroken 63",0664,NO
+SANDNES,"Stokkamyrveien 158",4313,NO
+OSLO,"Elsters gate 101",0367,NO
+NESBRU,"Bloksbergstien 155",1394,NO
+OSLO,"Øraveien 16",0760,NO
+TØNSBERG,"Bertes vei 102",3123,NO
+ALTA,"Øvreveien 41",9515,NO
+MANDAL,"Heggestien 147",4515,NO
+PORSGRUNN,"Høyåsvegen 118",3919,NO
+"KRISTIANSUND N","Veidestien 180",6517,NO
+SANDNES,"Svilandsveien 207",4308,NO
+"MO I RANA","Saga 8",8626,NO
+BORGEN,"Orreleiken 122",1388,NO
+SELLEBAKK,"Emblas vei 44",1654,NO
+PORSGRUNN,"Bjørkealleen 137",3915,NO
+OSLO,"Rugdeberget 146",1266,NO
+NESTTUN,"Midtunhaugen 145",5224,NO
+"KRISTIANSAND S","Odderheisløyfen 62",4639,NO
+SKIEN,"Høglivegen 223",3719,NO
+KRÅKERØY,"Bjørnevågveien 143",1676,NO
+MOSS,"Myraveien 123",1529,NO
+"KRISTIANSUND N","Kvitneshammeren 217",6518,NO
+OSLO,"Langteigåsen 168",1274,NO
+OSLO,"Vingolfveien 22",1170,NO
+TØNSBERG,"Heimdalsvingen 221",3117,NO
+STAVANGER,"Gangarstien 8",4021,NO
+GREÅKER,"Meieriveien 197",1718,NO
+MOSS,"Søndre Elvegate 163",1597,NO
+KRÅKERØY,"Lomveien 157",1679,NO
+NØTTERØY,"Vestliveien 56",3128,NO
+KRÅKERØY,"Lundveien 85",1673,NO
+NOTODDEN,"Amtmann Aalls gate 161",3683,NO
+PORSGRUNN,"Kulltangvegen 198",3933,NO
+SANDNES,"Vågsgaten 158",4306,NO
+HØNEFOSS,"Furuhaugen 65",3516,NO
+ISE,"Bergslandveien 81",1730,NO
+FLAKTVEIT,"Flaktveittræet 133",5134,NO
+GREÅKER,"Aspeveien 51",1718,NO
+HAMAR,"Bispegata 166",2315,NO
+"KRISTIANSUND N","Omveien 229",6510,NO
+FREDRIKSTAD,"Henrik Ibsens vei 3",1605,NO
+FREDRIKSTAD,"Strands vei 24",1605,NO
+OSLO,"Hagtornveien 105",0855,NO
+SANDEFJORD,"Ødegårdsveien 177",3231,NO
+ARENDAL,"Skøyteveien 188",4848,NO
+KRÅKERØY,"G.A.Stouslands vei 145",1671,NO
+KRÅKERØY,"Skiveien 76",1672,NO
+DRAMMEN,"Thams gate 108",3016,NO
+MOSJØEN,"Sikmovegen 149",8657,NO
+BORGENHAUGEN,"Tordvaldslyst 172",1738,NO
+OSLO,"Sigurd Johannesens vei 98",1163,NO
+SANDNES,"Bærheimveien 173",4312,NO
+STEINKJER,"Bomvegen 108",7725,NO
+STAVANGER,"Nordahl Griegs vei 127",4009,NO
+NOTODDEN,"Radioveien 117",3678,NO
+MOSS,"Innslaget 37",1536,NO
+OSLO,"Avstikkeren 87",1156,NO
+ÅLESUND,"Fogd Lindholms veg 34",6009,NO
+HAKADAL,"Hjortefaret 14",1488,NO
+"KRISTIANSAND S","Urds vei 110",4632,NO
+HØNEFOSS,"Vikheimsveien 16",3512,NO
+"MO I RANA","Skaarveien 172",8614,NO
+HALDEN,"Hestemyrveien 70",1781,NO
+"KRISTIANSUND N","Kirkegata 131",6516,NO
+OSLO,"Wildenveybakken 216",0766,NO
+DRAMMEN,"Kirkegata 231",3016,NO
+LILLESTRØM,"Henrik Sørensens gate 215",2003,NO
+PORSGRUNN,"Vollen 177",3946,NO
+TRONDHEIM,"Karen Blekkans veg 4",7037,NO
+HAMAR,"Herman Frangs gate 24",2317,NO
+SANDVIKA,"Tokerudkollen 166",1336,NO
+VARTEIG,"Solheimåsen 165",1735,NO
+SANDNES,"Strondavika 176",4329,NO
+BERGEN,"Endregården 210",5019,NO
+OSLO,"Messeveien 171",0277,NO
+SELLEBAKK,"Anton Hansens vei 42",1653,NO
+STORD,"Meatjønnshaugen 207",5412,NO
+HALDEN,"Bondebakken 195",1769,NO
+OSLO,"Montebellobakken 4",0379,NO
+ALTA,"Romsdalveien 48",9517,NO
+MOSS,"Marikåpeveien 186",1529,NO
+OSLO,"Unnarennet 32",0687,NO
+STAVANGER,"Kvivollstien 95",4027,NO
+TILLER,"Fossestuvegen 103",7075,NO
+ÅLESUND,"Brudeholmvegen 139",6013,NO
+DRAMMEN,"Hans Jensens vei 183",3031,NO
+VETTRE,"Leangbukta 196",1392,NO
+HAUGESUND,"Rekavikgata 165",5515,NO
+SKOPPUM,"Langmyra 194",3185,NO
+TROMSØ,"Seminargata 121",9008,NO
+OSLO,"Mikrobølgen 114",1151,NO
+LILLESTRØM,"Thorvald Lammers gate 109",2000,NO
+HAUGESUND,"Dronning Gydas gate 69",5523,NO
+HØNEFOSS,"Fåfengveien 145",3514,NO
+FAUSKE,"Myrveien 161",8206,NO
+NESTTUN,"Skjoldveien 6",5221,NO
+RÆLINGEN,"Sleppenvegen 125",2005,NO
+MOSS,"Odins gate 137",1511,NO
+HAMAR,"Peder Nilsens gate 95",2321,NO
+"KRISTIANSUND N","Demningen 59",6518,NO
+OSLO,"Myrhaugen 21",0752,NO
+OSLO,"Norderhovgata 6",0654,NO
+SKIEN,"Sandvegen 7",3734,NO
+GJØVIK,"Seljevegen 22",2818,NO
+HORTEN,"Sam Eydes gate 116",3186,NO
+LILLESTRØM,"Hoftvetveien 236",2000,NO
+STAVANGER,"Vågedalsveien 94",4020,NO
+SANDNES,"Vevargaten 15",4306,NO
+KONGSBERG,"Henning Tønsbergs vei 188",3610,NO
+"KRISTIANSUND N","Feskbergan 2",6512,NO
+SKIEN,"Merdinvegen 184",3716,NO
+ISDALSTØ,"Røsvikdalen 98",5914,NO
+ASKIM,"Byframgrinna 50",1832,NO
+OSLO,"Jordal terasse 249",0658,NO
+SEM,"Sæheimsveien 131",3170,NO
+DRAMMEN,"Sørensvingen 138",3028,NO
+NARVIK,"Aspeveien 159",8517,NO
+HØNEFOSS,"Balders vei 12",3518,NO
+"GAMLE FREDRIKSTAD","Viggo Hansteens gate 81",1630,NO
+MOLDE,"Fanneenga 230",6422,NO
+ÅLESUND,"Raudhammarvegen 69",6012,NO
+KOLSÅS,"Tiriltunga 135",1352,NO
+SANDEFJORD,"Solløkkastien 96",3233,NO
+MOLDE,"Solhagen 72",6415,NO
+PORSGRUNN,"Hovlandvegen 120",3920,NO
+NARVIK,"Hamsunsvei 66",8517,NO
+OSLO,"Roald Amundsens gate 131",0161,NO
+OSLO,"Bergstien 57",0172,NO
+HØNEFOSS,"Høybyveien 183",3517,NO
+OSLO,"Røaknekken 140",0754,NO
+DRAMMEN,"Hamborggata 235",3018,NO
+BODØ,"Olaveien 179",8008,NO
+KONGSVINGER,"Bringebærvegen 44",2209,NO
+MANDAL,"Bergeveien 139",4516,NO
+ARENDAL,"Sollibakken 161",4839,NO
+STORD,"Øvre Dalen 28",5416,NO
+OSLO,"Glimmerveien 15",1155,NO
+HAUGESUND,"Lotheparkvegen 134",5522,NO
+OSLO,"Vangen 81",1163,NO
+BERGEN,"Bredalsmarken 238",5006,NO
+ASKIM,"Solkroken 189",1807,NO
+HASLUM,"Østenåslia 103",1344,NO
+GRIMSTAD,"Mølleveien 141",4879,NO
+FREDRIKSTAD,"Ørmenåsen 240",1615,NO
+BODØ,"Rensmoveien 49",8007,NO
+SKIEN,"Grønnvegen 140",3720,NO
+STORD,"Sæbøvegen 124",5412,NO
+KRÅKERØY,"Langøyfaret 68",1679,NO
+OSLO,"Barnehjemsveien 43",1181,NO
+FOSNAVÅG,"Breidnesvegen 158",6092,NO
+DRAMMEN,"Hans Langbachs vei 106",3039,NO
+STAVANGER,"Ramsvig 79",4015,NO
+SANDEFJORD,"Øvre Sverdstadvei 154",3216,NO
+KOLSÅS,"Kremlegrenda 213",1352,NO
+KONGSVINGER,"Svalevegen 136",2209,NO
+TØNSBERG,"Håndverkergaten 234",3117,NO
+SKIEN,"Nenset terrasse 96",3736,NO
+ASKIM,"Kongleveien 110",1812,NO
+TØNSBERG,"Ekornveien 148",3112,NO
+KONGSVINGER,"Geitramsvegen 6",2208,NO
+LILLEHAMMER,"Smegutua 15",2609,NO
+OSLO,"Haraldsheimveien 151",0587,NO
+DRAMMEN,"Farmen Øvre 34",3024,NO
+FORNEBU,"Martin Linges vei 93",1364,NO
+"KRISTIANSAND S","Gamle Mandalsvei 11",4617,NO
+NØTTERØY,"Utsiktsveien 109",3121,NO
+FAUSKE,"Hegreveien 5",8207,NO
+KONGSVINGER,"Symrevegen 242",2208,NO
+FREDRIKSTAD,"Hjørnerødgata 160",1608,NO
+HEGGEDAL,"Torpfjellet 172",1389,NO
+"KRISTIANSUND N","Bleikvollen 142",6512,NO
+RYKKINN,"Langleiken 105",1348,NO
+ASKIM,"Dalveien 12",1808,NO
+GJØVIK,"Kringsjå 22",2819,NO
+"KRISTIANSAND S","Lumberveien 38",4621,NO
+"GAMLE FREDRIKSTAD","Titangata 108",1630,NO
+ARENDAL,"Rømmekollen 217",4844,NO
+SKJEBERG,"Løkkebergveien 134",1747,NO
+TISTEDAL,"Bjerkelundveien 166",1792,NO
+BERGEN,"Ole Vigs gate 76",5006,NO
+LARVIK,"Kroksteinveien 119",3261,NO
+SANDNES,"Heiasvingen 17",4328,NO
+SPONGDAL,"Mulberga 233",7074,NO
+SELLEBAKK,"Apotekerveien 239",1653,NO
+TRONDHEIM,"Otto Skirstads veg 234",7022,NO
+STAVANGER,"Birkelands gate 53",4012,NO
+OSLO,"Regnbueveien 166",0664,NO
+SANDNES,"Strondlia 113",4329,NO
+FLEKKERØY,"Kjæreveien 106",4625,NO
+FOSNAVÅG,"Grusholvegen 117",6091,NO
+GJØVIK,"Torkesvingen 190",2819,NO
+STAVANGER,"Sandvikveien 37",4016,NO
+HAUGESUND,"Torjus Gards veg 188",5518,NO
+BORGENHAUGEN,"Ruffen 28",1739,NO
+KONGSBERG,"Hasbergs vei 55",3616,NO
+ALTA,"Lampemyra 110",9518,NO
+OSLO,"Vidjeveien 74",1182,NO
+OSLO,"Lille Bislett 46",0170,NO
+GJØVIK,"Gangvegen 112",2817,NO
+"BÆRUMS VERK","Øvre Toppenhaug 155",1353,NO
+GREÅKER,"Fabelfaret 131",1718,NO
+VEAR,"Firingveien 101",3173,NO
+"KRISTIANSUND N","Utsikten 217",6514,NO
+HAUGESUND,"Torvastadgata 29",5529,NO
+OSLO,"Olleveien 158",1182,NO
+BODØ,"Øvre Slekkåsveien 157",8027,NO
+TRONDHEIM,"Tinghusplassen 216",7013,NO
+FREDRIKSTAD,"Sigrid Undsets vei 12",1619,NO
+TRONDHEIM,"Serinelystveien 102",7020,NO
+ARENDAL,"Veslekroken 22",4846,NO
+SKIEN,"Steinsrudhøgda 89",3728,NO
+MANDAL,"Haukeveien 66",4514,NO
+FYLLINGSDALEN,"Jonstadveien 198",5146,NO
+NESTTUN,"Sleipners vei 69",5221,NO
+OSLO,"Hans Amundsens vei 83",0484,NO
+SANDEFJORD,"Feensveien 66",3239,NO
+HARSTAD,"Valmuebakken 74",9404,NO
+HEGGEDAL,"Torpmarka 156",1389,NO
+TØNSBERG,"Dannevigs gate 71",3117,NO
+KONGSVINGER,"Sofies gate 127",2208,NO
+FREDRIKSTAD,"Stræbsomhet 112",1613,NO
+FREDRIKSTAD,"Damyr 164",1605,NO
+OSLO,"Birger Aaneruds vei 231",0496,NO
+SARPSBORG,"Gamle Opsund 137",1726,NO
+ALTA,"Sagbruksveien 93",9518,NO
+STAVANGER,"Worsetunet 90",4028,NO
+TØNSBERG,"Ilebrekkeveien 175",3114,NO
+HAMAR,"Raubekkgata 136",2316,NO
+MOSS,"Fredrik Solies vei 6",1523,NO
+SKIEN,"Jønnevaldstien 23",3721,NO
+MANDAL,"Rosnesveien 243",4516,NO
+STEINKJER,"Verksvegen 14",7725,NO
+TROMSØ,"Ole Gabrielsens veg 109",9011,NO
+"KRISTIANSUND N","Omveien 100",6510,NO
+NESBRU,"Vogellund 99",1394,NO
+SARPSBORG,"Snarveien (Tune) 174",1711,NO
+NOTODDEN,"Flylandvegen 163",3677,NO
+"MO I RANA","Faringsveien 5",8616,NO
+GRIMSTAD,"Bark Silas' vei 50",4876,NO
+ELVERUM,"Ankers veg 141",2408,NO
+TROMSØ,"Fredrik Langes gate 19",9008,NO
+OSLO,"Gjørstads gate 9",0367,NO
+OSLO,"Damkroken 173",0373,NO
+"GAMLE FREDRIKSTAD","Smedjegaten 38",1632,NO
+STAVANGER,"Høleberggata 37",4006,NO
+ÅLESUND,"Storskaret 162",6006,NO
+MOSJØEN,"Dr. Ravns veg 179",8657,NO
+HARSTAD,"Trollvassbakken 144",9405,NO
+NARVIK,"Stadionbakken 160",8516,NO
+TRONDHEIM,"Christian Frederiks gate 230",7030,NO
+SANDNES,"Ringen 78",4318,NO
+LILLEHAMMER,"Emma Gjelens veg 230",2609,NO
+GRESSVIK,"Gjerløwsveien 122",1621,NO
