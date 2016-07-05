@@ -1,5 +1,7 @@
 # create-demo-ad-users
 
+![example](/example_users.png)
+
 ## About
 Creates 1000 unique users in Active Directory, for testing purposes in Sopra Steria IMCS. Puts all users in default OU/DC by default with description `test`. Contains no sensitive data. Names and addresses are generated from fakenamegenerator.com. All other numbers used are randomly generated. 
 
